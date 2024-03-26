@@ -62,3 +62,27 @@ android {
   </tr>
 
 </table>
+<br>
+
+## Firebase Images
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Music-Stream-App/blob/master/assets/categories.png" alt="login signup page"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Music-Stream-App/blob/master/assets/sections.png" alt="login signup page"></td>
+  </tr>
+    <tr>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Music-Stream-App/blob/master/assets/songs.png" alt="login signup page"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Music-Stream-App/blob/master/assets/storage.png" alt="login signup page"></td>
+  </tr>
+    <tr>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Music-Stream-App/blob/master/assets/category_images.png" alt="category page"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Music-Stream-App/blob/master/assets/song_images.png" alt="category page"></td>
+  </tr>
+    <tr>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Music-Stream-App/blob/master/assets/songs_mp4.png" alt="music playing"></td>
+    <td align="center" style="padding: 8px; border: none;"><img src="https://github.com/reyhanturkkal/Music-Stream-App/blob/master/assets/user_authentication.png" alt="logout"></td>
+  </tr>
+
+</table>
+
